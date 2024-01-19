@@ -4,6 +4,7 @@ import com.poiji.annotation.ExcelCell;
 import org.springframework.boot.jackson.JsonComponent;
 
 @JsonComponent
+@SuppressWarnings("unused")
 public class Employee {
 
     @ExcelCell(7)
@@ -70,8 +71,6 @@ public class Employee {
     }
 
     public void setTimeOut(String timeOut) {
-//        DateTimeFormatter dateTimeFormatter = DateTimeFormatter.ofPattern("MM/dd/yyyy hh:mm a");
-//        this.timeOut = LocalDateTime.parse(timeOut, dateTimeFormatter);
         this.timeOut = timeOut;
     }
 

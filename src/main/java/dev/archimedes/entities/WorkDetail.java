@@ -6,6 +6,7 @@ import java.time.LocalDate;
 import java.util.*;
 
 @JsonComponent
+@SuppressWarnings("unused")
 public class WorkDetail {
     private String empId;
     private String name;
