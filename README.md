@@ -1,0 +1,1 @@
+**All business logic is in WorkDetailSevice.java class**
