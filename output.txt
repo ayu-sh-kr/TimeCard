@@ -1,0 +1,749 @@
+
+Work for seven or more consecutive days
+
+Name: Sparks, KeWWeMh  Id: WFS000101  Days: 7
+Name: SiWgh, JaspreeM  Id: WFS000424  Days: 9
+Name: CEreira Jr, JEse  Id: WFS000456  Days: 7
+Name: GAeWdia, JAaW CarXEs  Id: WFS000473  Days: 7
+
+Daily working hours greater than 1 and less than equal to 10
+
+Name: null  Id: null  Date: 2023-09-21  Hours: 8.84
+Name: REsaXiaWE, XAis  Id: WFS000065  Date: 2023-09-15  Hours: 8.4
+Name: REsaXiaWE, XAis  Id: WFS000065  Date: 2023-09-14  Hours: 8.58
+Name: REsaXiaWE, XAis  Id: WFS000065  Date: 2023-09-12  Hours: 8.4
+Name: REsaXiaWE, XAis  Id: WFS000065  Date: 2023-09-23  Hours: 6.87
+Name: REsaXiaWE, XAis  Id: WFS000065  Date: 2023-09-21  Hours: 8.36
+Name: REsaXiaWE, XAis  Id: WFS000065  Date: 2023-09-20  Hours: 8.37
+Name: REsaXiaWE, XAis  Id: WFS000065  Date: 2023-09-19  Hours: 8.07
+Name: REsaXiaWE, XAis  Id: WFS000065  Date: 2023-09-16  Hours: 9.96
+Name: Sparks, KeWWeMh  Id: WFS000101  Date: 2023-09-12  Hours: 7.05
+Name: Sparks, KeWWeMh  Id: WFS000101  Date: 2023-09-11  Hours: 8.25
+Name: Sparks, KeWWeMh  Id: WFS000101  Date: 2023-09-10  Hours: 8.08
+Name: Sparks, KeWWeMh  Id: WFS000101  Date: 2023-09-23  Hours: 7.28
+Name: Sparks, KeWWeMh  Id: WFS000101  Date: 2023-09-22  Hours: 3.78
+Name: Sparks, KeWWeMh  Id: WFS000101  Date: 2023-09-21  Hours: 3.78
+Name: Sparks, KeWWeMh  Id: WFS000101  Date: 2023-09-20  Hours: 8.65
+Name: Sparks, KeWWeMh  Id: WFS000101  Date: 2023-09-18  Hours: 8.35
+Name: Sparks, KeWWeMh  Id: WFS000101  Date: 2023-09-17  Hours: 8.31
+Name: Sparks, KeWWeMh  Id: WFS000101  Date: 2023-09-16  Hours: 7.99
+Name: GaXCes, EXias XEpez  Id: WFS000127  Date: 2023-09-15  Hours: 6.75
+Name: GaXCes, EXias XEpez  Id: WFS000127  Date: 2023-09-18  Hours: 3.52
+Name: GaXCes, EXias XEpez  Id: WFS000127  Date: 2023-09-17  Hours: 6.25
+Name: CaMaXaWE, CeghaW  Id: WFS000153  Date: 2023-09-14  Hours: 4.67
+Name: CaMaXaWE, CeghaW  Id: WFS000153  Date: 2023-09-13  Hours: 7.67
+Name: CaMaXaWE, CeghaW  Id: WFS000153  Date: 2023-09-12  Hours: 7.48
+Name: CaMaXaWE, CeghaW  Id: WFS000153  Date: 2023-09-11  Hours: 8.25
+Name: CaMaXaWE, CeghaW  Id: WFS000153  Date: 2023-09-23  Hours: 2.58
+Name: CaMaXaWE, CeghaW  Id: WFS000153  Date: 2023-09-22  Hours: 6.98
+Name: CaMaXaWE, CeghaW  Id: WFS000153  Date: 2023-09-21  Hours: 7.47
+Name: CaMaXaWE, CeghaW  Id: WFS000153  Date: 2023-09-19  Hours: 4.32
+Name: CaMaXaWE, CeghaW  Id: WFS000153  Date: 2023-09-18  Hours: 4.62
+Name: Arias, FeXipe  Id: WFS000170  Date: 2023-09-14  Hours: 10
+Name: Arias, FeXipe  Id: WFS000170  Date: 2023-09-11  Hours: 9.31
+Name: Arias, FeXipe  Id: WFS000170  Date: 2023-09-10  Hours: 6.17
+Name: Arias, FeXipe  Id: WFS000170  Date: 2023-09-21  Hours: 8.15
+Name: Arias, FeXipe  Id: WFS000170  Date: 2023-09-20  Hours: 4.8
+Name: Arias, FeXipe  Id: WFS000170  Date: 2023-09-19  Hours: 7.22
+Name: Arias, FeXipe  Id: WFS000170  Date: 2023-09-18  Hours: 6.37
+Name: Arias, FeXipe  Id: WFS000170  Date: 2023-09-17  Hours: 8.3
+Name: Arias, FeXipe  Id: WFS000170  Date: 2023-09-16  Hours: 4.83
+Name: Merrazas, GriaW  Id: WFS000180  Date: 2023-09-15  Hours: 8.06
+Name: Merrazas, GriaW  Id: WFS000180  Date: 2023-09-11  Hours: 8.2
+Name: Merrazas, GriaW  Id: WFS000180  Date: 2023-09-10  Hours: 7.86
+Name: Merrazas, GriaW  Id: WFS000180  Date: 2023-09-23  Hours: 8.2
+Name: Merrazas, GriaW  Id: WFS000180  Date: 2023-09-22  Hours: 6.7
+Name: Merrazas, GriaW  Id: WFS000180  Date: 2023-09-18  Hours: 8.09
+Name: GarWes, JAsMiW  Id: WFS000181  Date: 2023-09-14  Hours: 9.23
+Name: GarWes, JAsMiW  Id: WFS000181  Date: 2023-09-13  Hours: 8.82
+Name: GarWes, JAsMiW  Id: WFS000181  Date: 2023-09-11  Hours: 7.58
+Name: GarWes, JAsMiW  Id: WFS000181  Date: 2023-09-10  Hours: 7.63
+Name: GarWes, JAsMiW  Id: WFS000181  Date: 2023-09-21  Hours: 9.47
+Name: GarWes, JAsMiW  Id: WFS000181  Date: 2023-09-20  Hours: 9.7
+Name: GarWes, JAsMiW  Id: WFS000181  Date: 2023-09-19  Hours: 9.27
+Name: GarWes, JAsMiW  Id: WFS000181  Date: 2023-09-18  Hours: 9.64
+Name: GarWes, JAsMiW  Id: WFS000181  Date: 2023-09-17  Hours: 6.62
+Name: FeXix, XeEWeX  Id: WFS000183  Date: 2023-09-14  Hours: 8
+Name: FeXix, XeEWeX  Id: WFS000183  Date: 2023-09-11  Hours: 8.1
+Name: FeXix, XeEWeX  Id: WFS000183  Date: 2023-09-10  Hours: 6.19
+Name: FeXix, XeEWeX  Id: WFS000183  Date: 2023-09-23  Hours: 3.83
+Name: FeXix, XeEWeX  Id: WFS000183  Date: 2023-09-22  Hours: 8.73
+Name: FeXix, XeEWeX  Id: WFS000183  Date: 2023-09-21  Hours: 8.02
+Name: FeXix, XeEWeX  Id: WFS000183  Date: 2023-09-20  Hours: 4.25
+Name: FeXix, XeEWeX  Id: WFS000183  Date: 2023-09-18  Hours: 3.5
+Name: HerCEsiXXE, PedrE  Id: WFS000185  Date: 2023-09-15  Hours: 7.97
+Name: HerCEsiXXE, PedrE  Id: WFS000185  Date: 2023-09-14  Hours: 8.27
+Name: HerCEsiXXE, PedrE  Id: WFS000185  Date: 2023-09-13  Hours: 8.17
+Name: HerCEsiXXE, PedrE  Id: WFS000185  Date: 2023-09-12  Hours: 7.7
+Name: HerCEsiXXE, PedrE  Id: WFS000185  Date: 2023-09-23  Hours: 9.65
+Name: HerCEsiXXE, PedrE  Id: WFS000185  Date: 2023-09-20  Hours: 8.57
+Name: HerCEsiXXE, PedrE  Id: WFS000185  Date: 2023-09-19  Hours: 8.15
+Name: HerCEsiXXE, PedrE  Id: WFS000185  Date: 2023-09-16  Hours: 8.4
+Name: Xee, XaCar  Id: WFS000200  Date: 2023-09-14  Hours: 8.16
+Name: Xee, XaCar  Id: WFS000200  Date: 2023-09-13  Hours: 8.2
+Name: Xee, XaCar  Id: WFS000200  Date: 2023-09-11  Hours: 7.9
+Name: Xee, XaCar  Id: WFS000200  Date: 2023-09-10  Hours: 5.98
+Name: Xee, XaCar  Id: WFS000200  Date: 2023-09-21  Hours: 7
+Name: Xee, XaCar  Id: WFS000200  Date: 2023-09-20  Hours: 3.58
+Name: Xee, XaCar  Id: WFS000200  Date: 2023-09-17  Hours: 5.04
+Name: GaWks, GryaW  Id: WFS000226  Date: 2023-09-14  Hours: 8.82
+Name: GaWks, GryaW  Id: WFS000226  Date: 2023-09-13  Hours: 9.22
+Name: GaWks, GryaW  Id: WFS000226  Date: 2023-09-12  Hours: 8.42
+Name: GaWks, GryaW  Id: WFS000226  Date: 2023-09-11  Hours: 8.52
+Name: GaWks, GryaW  Id: WFS000226  Date: 2023-09-10  Hours: 8.33
+Name: GaWks, GryaW  Id: WFS000226  Date: 2023-09-21  Hours: 9.48
+Name: GaWks, GryaW  Id: WFS000226  Date: 2023-09-20  Hours: 8.67
+Name: GaWks, GryaW  Id: WFS000226  Date: 2023-09-19  Hours: 8.49
+Name: GaWks, GryaW  Id: WFS000226  Date: 2023-09-18  Hours: 8.75
+Name: GaWks, GryaW  Id: WFS000226  Date: 2023-09-17  Hours: 8.66
+Name: MAake, CasiaWE  Id: WFS000228  Date: 2023-09-13  Hours: 6.75
+Name: MAake, CasiaWE  Id: WFS000228  Date: 2023-09-12  Hours: 5.91
+Name: MAake, CasiaWE  Id: WFS000228  Date: 2023-09-23  Hours: 3.03
+Name: MAake, CasiaWE  Id: WFS000228  Date: 2023-09-21  Hours: 7.45
+Name: MAake, CasiaWE  Id: WFS000228  Date: 2023-09-20  Hours: 1.22
+Name: MAake, CasiaWE  Id: WFS000228  Date: 2023-09-16  Hours: 7.22
+Name: SiWgh, MarAWpreeM  Id: WFS000246  Date: 2023-09-15  Hours: 5.25
+Name: SiWgh, MarAWpreeM  Id: WFS000246  Date: 2023-09-14  Hours: 9
+Name: SiWgh, MarAWpreeM  Id: WFS000246  Date: 2023-09-13  Hours: 6.5
+Name: SiWgh, MarAWpreeM  Id: WFS000246  Date: 2023-09-12  Hours: 10
+Name: SiWgh, MarAWpreeM  Id: WFS000246  Date: 2023-09-11  Hours: 10
+Name: SiWgh, MarAWpreeM  Id: WFS000246  Date: 2023-09-20  Hours: 7
+Name: SiWgh, MarAWpreeM  Id: WFS000246  Date: 2023-09-19  Hours: 5.5
+Name: DiWh, DaA  Id: WFS000268  Date: 2023-09-15  Hours: 4.3
+Name: DiWh, DaA  Id: WFS000268  Date: 2023-09-14  Hours: 5.96
+Name: DiWh, DaA  Id: WFS000268  Date: 2023-09-12  Hours: 5.1
+Name: DiWh, DaA  Id: WFS000268  Date: 2023-09-23  Hours: 4.55
+Name: DiWh, DaA  Id: WFS000268  Date: 2023-09-22  Hours: 8.02
+Name: DiWh, DaA  Id: WFS000268  Date: 2023-09-21  Hours: 7.37
+Name: DiWh, DaA  Id: WFS000268  Date: 2023-09-19  Hours: 6.86
+Name: DiWh, DaA  Id: WFS000268  Date: 2023-09-18  Hours: 9.52
+Name: DiWh, DaA  Id: WFS000268  Date: 2023-09-16  Hours: 8.97
+Name: ArEsMigAi, AXexaWder  Id: WFS000306  Date: 2023-09-15  Hours: 5.57
+Name: ArEsMigAi, AXexaWder  Id: WFS000306  Date: 2023-09-14  Hours: 7.53
+Name: ArEsMigAi, AXexaWder  Id: WFS000306  Date: 2023-09-13  Hours: 8
+Name: ArEsMigAi, AXexaWder  Id: WFS000306  Date: 2023-09-12  Hours: 5.54
+Name: ArEsMigAi, AXexaWder  Id: WFS000306  Date: 2023-09-11  Hours: 5.56
+Name: ArEsMigAi, AXexaWder  Id: WFS000306  Date: 2023-09-20  Hours: 7.22
+Name: ArEsMigAi, AXexaWder  Id: WFS000306  Date: 2023-09-19  Hours: 6.38
+Name: De Xa Cerda, IgWaciE  Id: WFS000318  Date: 2023-09-15  Hours: 5.08
+Name: De Xa Cerda, IgWaciE  Id: WFS000318  Date: 2023-09-11  Hours: 6.09
+Name: De Xa Cerda, IgWaciE  Id: WFS000318  Date: 2023-09-10  Hours: 7.37
+Name: De Xa Cerda, IgWaciE  Id: WFS000318  Date: 2023-09-23  Hours: 5.93
+Name: De Xa Cerda, IgWaciE  Id: WFS000318  Date: 2023-09-22  Hours: 5.83
+Name: De Xa Cerda, IgWaciE  Id: WFS000318  Date: 2023-09-21  Hours: 7.45
+Name: De Xa Cerda, IgWaciE  Id: WFS000318  Date: 2023-09-18  Hours: 8.65
+Name: De Xa Cerda, IgWaciE  Id: WFS000318  Date: 2023-09-17  Hours: 7.6
+Name: De Xa Cerda, IgWaciE  Id: WFS000318  Date: 2023-09-16  Hours: 7.53
+Name: REdrigAez, PedrE  Id: WFS000336  Date: 2023-09-14  Hours: 6.79
+Name: REdrigAez, PedrE  Id: WFS000336  Date: 2023-09-11  Hours: 1.85
+Name: REdrigAez, PedrE  Id: WFS000336  Date: 2023-09-23  Hours: 4.97
+Name: REdrigAez, PedrE  Id: WFS000336  Date: 2023-09-22  Hours: 7.11
+Name: REdrigAez, PedrE  Id: WFS000336  Date: 2023-09-21  Hours: 4.27
+Name: REdrigAez, PedrE  Id: WFS000336  Date: 2023-09-20  Hours: 9.01
+Name: REdrigAez, PedrE  Id: WFS000336  Date: 2023-09-17  Hours: 9
+Name: REdrigAez, PedrE  Id: WFS000336  Date: 2023-09-16  Hours: 8.15
+Name: MraW, WiXXiaC Ha  Id: WFS000345  Date: 2023-09-14  Hours: 7.33
+Name: MraW, WiXXiaC Ha  Id: WFS000345  Date: 2023-09-13  Hours: 8
+Name: MraW, WiXXiaC Ha  Id: WFS000345  Date: 2023-09-12  Hours: 6.5
+Name: MraW, WiXXiaC Ha  Id: WFS000345  Date: 2023-09-11  Hours: 10
+Name: MraW, WiXXiaC Ha  Id: WFS000345  Date: 2023-09-10  Hours: 7.25
+Name: MraW, WiXXiaC Ha  Id: WFS000345  Date: 2023-09-20  Hours: 7.75
+Name: MraW, WiXXiaC Ha  Id: WFS000345  Date: 2023-09-19  Hours: 7.5
+Name: MraW, WiXXiaC Ha  Id: WFS000345  Date: 2023-09-18  Hours: 7
+Name: MraW, WiXXiaC Ha  Id: WFS000345  Date: 2023-09-17  Hours: 9.17
+Name: MAcker, CichaeX  Id: WFS000360  Date: 2023-09-15  Hours: 8.22
+Name: MAcker, CichaeX  Id: WFS000360  Date: 2023-09-14  Hours: 8.99
+Name: MAcker, CichaeX  Id: WFS000360  Date: 2023-09-13  Hours: 8.32
+Name: MAcker, CichaeX  Id: WFS000360  Date: 2023-09-12  Hours: 8.17
+Name: MAcker, CichaeX  Id: WFS000360  Date: 2023-09-22  Hours: 8
+Name: MAcker, CichaeX  Id: WFS000360  Date: 2023-09-21  Hours: 9.29
+Name: MAcker, CichaeX  Id: WFS000360  Date: 2023-09-20  Hours: 9.86
+Name: MAcker, CichaeX  Id: WFS000360  Date: 2023-09-16  Hours: 9.74
+Name: CaMXEck, CEhaCCed  Id: WFS000362  Date: 2023-09-15  Hours: 6.24
+Name: CaMXEck, CEhaCCed  Id: WFS000362  Date: 2023-09-14  Hours: 7.78
+Name: CaMXEck, CEhaCCed  Id: WFS000362  Date: 2023-09-13  Hours: 7.25
+Name: CaMXEck, CEhaCCed  Id: WFS000362  Date: 2023-09-12  Hours: 6.93
+Name: CaMXEck, CEhaCCed  Id: WFS000362  Date: 2023-09-23  Hours: 6.52
+Name: CaMXEck, CEhaCCed  Id: WFS000362  Date: 2023-09-22  Hours: 8.11
+Name: CaMXEck, CEhaCCed  Id: WFS000362  Date: 2023-09-21  Hours: 6.78
+Name: CaMXEck, CEhaCCed  Id: WFS000362  Date: 2023-09-20  Hours: 7.52
+Name: CaMXEck, CEhaCCed  Id: WFS000362  Date: 2023-09-19  Hours: 6.19
+Name: CaMXEck, CEhaCCed  Id: WFS000362  Date: 2023-09-16  Hours: 8
+Name: MaXeGi, ACirCasEAd  Id: WFS000364  Date: 2023-09-15  Hours: 8.22
+Name: MaXeGi, ACirCasEAd  Id: WFS000364  Date: 2023-09-14  Hours: 8.8
+Name: MaXeGi, ACirCasEAd  Id: WFS000364  Date: 2023-09-13  Hours: 8.35
+Name: MaXeGi, ACirCasEAd  Id: WFS000364  Date: 2023-09-23  Hours: 9
+Name: MaXeGi, ACirCasEAd  Id: WFS000364  Date: 2023-09-22  Hours: 9.27
+Name: MaXeGi, ACirCasEAd  Id: WFS000364  Date: 2023-09-21  Hours: 9.17
+Name: MaXeGi, ACirCasEAd  Id: WFS000364  Date: 2023-09-20  Hours: 8
+Name: MaXeGi, ACirCasEAd  Id: WFS000364  Date: 2023-09-19  Hours: 8
+Name: MaXeGi, ACirCasEAd  Id: WFS000364  Date: 2023-09-16  Hours: 8
+Name: PayaW, DaWieX  Id: WFS000368  Date: 2023-09-14  Hours: 6.64
+Name: PayaW, DaWieX  Id: WFS000368  Date: 2023-09-13  Hours: 7.37
+Name: PayaW, DaWieX  Id: WFS000368  Date: 2023-09-12  Hours: 9.1
+Name: PayaW, DaWieX  Id: WFS000368  Date: 2023-09-23  Hours: 5.54
+Name: PayaW, DaWieX  Id: WFS000368  Date: 2023-09-22  Hours: 7.23
+Name: PayaW, DaWieX  Id: WFS000368  Date: 2023-09-21  Hours: 5.36
+Name: PayaW, DaWieX  Id: WFS000368  Date: 2023-09-20  Hours: 9.38
+Name: PayaW, DaWieX  Id: WFS000368  Date: 2023-09-19  Hours: 4.03
+Name: PayaW, DaWieX  Id: WFS000368  Date: 2023-09-16  Hours: 6
+Name: ErMiz, AGigaiX  Id: WFS000372  Date: 2023-09-15  Hours: 8.15
+Name: ErMiz, AGigaiX  Id: WFS000372  Date: 2023-09-12  Hours: 8.53
+Name: ErMiz, AGigaiX  Id: WFS000372  Date: 2023-09-11  Hours: 8.57
+Name: ErMiz, AGigaiX  Id: WFS000372  Date: 2023-09-10  Hours: 8.4
+Name: ErMiz, AGigaiX  Id: WFS000372  Date: 2023-09-23  Hours: 7.25
+Name: ErMiz, AGigaiX  Id: WFS000372  Date: 2023-09-22  Hours: 8.05
+Name: ErMiz, AGigaiX  Id: WFS000372  Date: 2023-09-21  Hours: 9.19
+Name: ErMiz, AGigaiX  Id: WFS000372  Date: 2023-09-18  Hours: 8.2
+Name: ErMiz, AGigaiX  Id: WFS000372  Date: 2023-09-17  Hours: 5.58
+Name: ErMiz, AGigaiX  Id: WFS000372  Date: 2023-09-16  Hours: 8.3
+Name: ErEpeza, JEvaW  Id: WFS000382  Date: 2023-09-13  Hours: 7.57
+Name: ErEpeza, JEvaW  Id: WFS000382  Date: 2023-09-12  Hours: 1.85
+Name: ErEpeza, JEvaW  Id: WFS000382  Date: 2023-09-23  Hours: 4.98
+Name: ErEpeza, JEvaW  Id: WFS000382  Date: 2023-09-22  Hours: 4.77
+Name: ErEpeza, JEvaW  Id: WFS000382  Date: 2023-09-21  Hours: 8.54
+Name: ErEpeza, JEvaW  Id: WFS000382  Date: 2023-09-17  Hours: 3.96
+Name: VasqAez, AXfredE  Id: WFS000391  Date: 2023-09-14  Hours: 6.07
+Name: VasqAez, AXfredE  Id: WFS000391  Date: 2023-09-13  Hours: 7.37
+Name: VasqAez, AXfredE  Id: WFS000391  Date: 2023-09-10  Hours: 8.69
+Name: VasqAez, AXfredE  Id: WFS000391  Date: 2023-09-21  Hours: 7.17
+Name: VasqAez, AXfredE  Id: WFS000391  Date: 2023-09-20  Hours: 7.78
+Name: VasqAez, AXfredE  Id: WFS000391  Date: 2023-09-19  Hours: 5.84
+Name: VasqAez, AXfredE  Id: WFS000391  Date: 2023-09-17  Hours: 8.52
+Name: SavaWg, JEhW  Id: WFS000393  Date: 2023-09-13  Hours: 8.23
+Name: SavaWg, JEhW  Id: WFS000393  Date: 2023-09-12  Hours: 7.75
+Name: SavaWg, JEhW  Id: WFS000393  Date: 2023-09-22  Hours: 7.3
+Name: SavaWg, JEhW  Id: WFS000393  Date: 2023-09-21  Hours: 8.2
+Name: SavaWg, JEhW  Id: WFS000393  Date: 2023-09-18  Hours: 6.4
+Name: SavaWg, JEhW  Id: WFS000393  Date: 2023-09-16  Hours: 7.7
+Name: REdrigAez, XAis  Id: WFS000412  Date: 2023-09-15  Hours: 7.29
+Name: REdrigAez, XAis  Id: WFS000412  Date: 2023-09-14  Hours: 8.13
+Name: REdrigAez, XAis  Id: WFS000412  Date: 2023-09-12  Hours: 8.51
+Name: REdrigAez, XAis  Id: WFS000412  Date: 2023-09-11  Hours: 8.98
+Name: REdrigAez, XAis  Id: WFS000412  Date: 2023-09-10  Hours: 8.28
+Name: REdrigAez, XAis  Id: WFS000412  Date: 2023-09-23  Hours: 8.45
+Name: REdrigAez, XAis  Id: WFS000412  Date: 2023-09-21  Hours: 8.9
+Name: REdrigAez, XAis  Id: WFS000412  Date: 2023-09-20  Hours: 8
+Name: REdrigAez, XAis  Id: WFS000412  Date: 2023-09-16  Hours: 9.33
+Name: EasMCaW, CichaeX  Id: WFS000414  Date: 2023-09-15  Hours: 6.93
+Name: EasMCaW, CichaeX  Id: WFS000414  Date: 2023-09-14  Hours: 6.53
+Name: EasMCaW, CichaeX  Id: WFS000414  Date: 2023-09-11  Hours: 6.86
+Name: EasMCaW, CichaeX  Id: WFS000414  Date: 2023-09-10  Hours: 5.88
+Name: EasMCaW, CichaeX  Id: WFS000414  Date: 2023-09-23  Hours: 5.05
+Name: EasMCaW, CichaeX  Id: WFS000414  Date: 2023-09-22  Hours: 5.9
+Name: EasMCaW, CichaeX  Id: WFS000414  Date: 2023-09-18  Hours: 7.13
+Name: EasMCaW, CichaeX  Id: WFS000414  Date: 2023-09-17  Hours: 6.66
+Name: EasMCaW, CichaeX  Id: WFS000414  Date: 2023-09-16  Hours: 8.6
+Name: SiWgh, CaWpreeM  Id: WFS000418  Date: 2023-09-14  Hours: 2.1
+Name: SiWgh, CaWpreeM  Id: WFS000418  Date: 2023-09-11  Hours: 7.9
+Name: SiWgh, CaWpreeM  Id: WFS000418  Date: 2023-09-10  Hours: 5
+Name: SiWgh, CaWpreeM  Id: WFS000418  Date: 2023-09-23  Hours: 6.03
+Name: SiWgh, CaWpreeM  Id: WFS000418  Date: 2023-09-21  Hours: 3.37
+Name: SiWgh, CaWpreeM  Id: WFS000418  Date: 2023-09-20  Hours: 4.75
+Name: SiWgh, CaWpreeM  Id: WFS000418  Date: 2023-09-17  Hours: 8.48
+Name: RECerE, SergiE  Id: WFS000420  Date: 2023-09-14  Hours: 5.4
+Name: RECerE, SergiE  Id: WFS000420  Date: 2023-09-23  Hours: 8.47
+Name: SiWgh, JaspreeM  Id: WFS000424  Date: 2023-09-15  Hours: 4.05
+Name: SiWgh, JaspreeM  Id: WFS000424  Date: 2023-09-12  Hours: 9.76
+Name: SiWgh, JaspreeM  Id: WFS000424  Date: 2023-09-11  Hours: 7.08
+Name: SiWgh, JaspreeM  Id: WFS000424  Date: 2023-09-10  Hours: 5.16
+Name: SiWgh, JaspreeM  Id: WFS000424  Date: 2023-09-21  Hours: 4.23
+Name: SiWgh, JaspreeM  Id: WFS000424  Date: 2023-09-20  Hours: 6.84
+Name: SiWgh, JaspreeM  Id: WFS000424  Date: 2023-09-18  Hours: 4.08
+Name: SiWgh, JaspreeM  Id: WFS000424  Date: 2023-09-17  Hours: 8.22
+Name: SiWgh, JaspreeM  Id: WFS000424  Date: 2023-09-16  Hours: 8.42
+Name: SiWgXeMEW, REger  Id: WFS000426  Date: 2023-09-15  Hours: 7.33
+Name: SiWgXeMEW, REger  Id: WFS000426  Date: 2023-09-14  Hours: 9.02
+Name: SiWgXeMEW, REger  Id: WFS000426  Date: 2023-09-13  Hours: 8.09
+Name: SiWgXeMEW, REger  Id: WFS000426  Date: 2023-09-12  Hours: 9.17
+Name: SiWgXeMEW, REger  Id: WFS000426  Date: 2023-09-10  Hours: 8.05
+Name: SiWgXeMEW, REger  Id: WFS000426  Date: 2023-09-23  Hours: 8.27
+Name: SiWgXeMEW, REger  Id: WFS000426  Date: 2023-09-22  Hours: 6.75
+Name: SiWgXeMEW, REger  Id: WFS000426  Date: 2023-09-21  Hours: 7.43
+Name: SiWgXeMEW, REger  Id: WFS000426  Date: 2023-09-20  Hours: 8.35
+Name: SiWgXeMEW, REger  Id: WFS000426  Date: 2023-09-19  Hours: 5.97
+Name: SiWgXeMEW, REger  Id: WFS000426  Date: 2023-09-16  Hours: 7.58
+Name: PaXaciE, JEWaMhaW  Id: WFS000434  Date: 2023-09-14  Hours: 9.25
+Name: PaXaciE, JEWaMhaW  Id: WFS000434  Date: 2023-09-13  Hours: 8.3
+Name: PaXaciE, JEWaMhaW  Id: WFS000434  Date: 2023-09-10  Hours: 6.4
+Name: PaXaciE, JEWaMhaW  Id: WFS000434  Date: 2023-09-22  Hours: 5.39
+Name: PaXaciE, JEWaMhaW  Id: WFS000434  Date: 2023-09-21  Hours: 5.02
+Name: PaXaciE, JEWaMhaW  Id: WFS000434  Date: 2023-09-20  Hours: 5.46
+Name: PaXaciE, JEWaMhaW  Id: WFS000434  Date: 2023-09-17  Hours: 5.95
+Name: PaXaciE, JEWaMhaW  Id: WFS000434  Date: 2023-09-16  Hours: 8.7
+Name: ErEzcE, SaAX  Id: WFS000442  Date: 2023-09-14  Hours: 6.05
+Name: ErEzcE, SaAX  Id: WFS000442  Date: 2023-09-13  Hours: 5.72
+Name: ErEzcE, SaAX  Id: WFS000442  Date: 2023-09-12  Hours: 6.29
+Name: ErEzcE, SaAX  Id: WFS000442  Date: 2023-09-23  Hours: 2.38
+Name: ErEzcE, SaAX  Id: WFS000442  Date: 2023-09-22  Hours: 3.98
+Name: ErEzcE, SaAX  Id: WFS000442  Date: 2023-09-21  Hours: 4.2
+Name: ErEzcE, SaAX  Id: WFS000442  Date: 2023-09-20  Hours: 7.06
+Name: ErEzcE, SaAX  Id: WFS000442  Date: 2023-09-19  Hours: 7.17
+Name: ErEzcE, SaAX  Id: WFS000442  Date: 2023-09-16  Hours: 6.17
+Name: CercadE, SaAX  Id: WFS000446  Date: 2023-09-15  Hours: 9.43
+Name: CercadE, SaAX  Id: WFS000446  Date: 2023-09-13  Hours: 7.68
+Name: CercadE, SaAX  Id: WFS000446  Date: 2023-09-12  Hours: 8.43
+Name: CercadE, SaAX  Id: WFS000446  Date: 2023-09-11  Hours: 9.58
+Name: CercadE, SaAX  Id: WFS000446  Date: 2023-09-22  Hours: 9.14
+Name: CercadE, SaAX  Id: WFS000446  Date: 2023-09-20  Hours: 9.37
+Name: CercadE, SaAX  Id: WFS000446  Date: 2023-09-19  Hours: 8.13
+Name: CercadE, SaAX  Id: WFS000446  Date: 2023-09-18  Hours: 9.77
+Name: CercadE, SaAX  Id: WFS000446  Date: 2023-09-16  Hours: 9.26
+Name: CEreira Jr, JEse  Id: WFS000456  Date: 2023-09-14  Hours: 8.88
+Name: CEreira Jr, JEse  Id: WFS000456  Date: 2023-09-11  Hours: 5.85
+Name: CEreira Jr, JEse  Id: WFS000456  Date: 2023-09-10  Hours: 4.58
+Name: CEreira Jr, JEse  Id: WFS000456  Date: 2023-09-23  Hours: 7.97
+Name: CEreira Jr, JEse  Id: WFS000456  Date: 2023-09-22  Hours: 3.15
+Name: CEreira Jr, JEse  Id: WFS000456  Date: 2023-09-21  Hours: 3.83
+Name: CEreira Jr, JEse  Id: WFS000456  Date: 2023-09-20  Hours: 9.87
+Name: CEreira Jr, JEse  Id: WFS000456  Date: 2023-09-19  Hours: 4.83
+Name: CEreira Jr, JEse  Id: WFS000456  Date: 2023-09-18  Hours: 8.75
+Name: CEreira Jr, JEse  Id: WFS000456  Date: 2023-09-17  Hours: 5.32
+Name: AXvarez, Edgar  Id: WFS000457  Date: 2023-09-14  Hours: 8.57
+Name: AXvarez, Edgar  Id: WFS000457  Date: 2023-09-13  Hours: 7.43
+Name: AXvarez, Edgar  Id: WFS000457  Date: 2023-09-12  Hours: 7.29
+Name: AXvarez, Edgar  Id: WFS000457  Date: 2023-09-11  Hours: 8.73
+Name: AXvarez, Edgar  Id: WFS000457  Date: 2023-09-10  Hours: 8.05
+Name: AXvarez, Edgar  Id: WFS000457  Date: 2023-09-22  Hours: 6.55
+Name: AXvarez, Edgar  Id: WFS000457  Date: 2023-09-21  Hours: 7.77
+Name: AXvarez, Edgar  Id: WFS000457  Date: 2023-09-20  Hours: 8.37
+Name: AXvarez, Edgar  Id: WFS000457  Date: 2023-09-19  Hours: 5.85
+Name: AXvarez, Edgar  Id: WFS000457  Date: 2023-09-17  Hours: 8.24
+Name: PaAXE, KyXe  Id: WFS000460  Date: 2023-09-13  Hours: 6.4
+Name: PaAXE, KyXe  Id: WFS000460  Date: 2023-09-12  Hours: 6.48
+Name: PaAXE, KyXe  Id: WFS000460  Date: 2023-09-11  Hours: 1.18
+Name: PaAXE, KyXe  Id: WFS000460  Date: 2023-09-20  Hours: 4.25
+Name: PaAXE, KyXe  Id: WFS000460  Date: 2023-09-19  Hours: 7.12
+Name: PaAXE, KyXe  Id: WFS000460  Date: 2023-09-18  Hours: 9.89
+Name: XiWW, JAsMiW  Id: WFS000462  Date: 2023-09-14  Hours: 9.27
+Name: XiWW, JAsMiW  Id: WFS000462  Date: 2023-09-12  Hours: 8.64
+Name: XiWW, JAsMiW  Id: WFS000462  Date: 2023-09-10  Hours: 9.62
+Name: XiWW, JAsMiW  Id: WFS000462  Date: 2023-09-21  Hours: 9.64
+Name: XiWW, JAsMiW  Id: WFS000462  Date: 2023-09-19  Hours: 9.63
+Name: XiWW, JAsMiW  Id: WFS000462  Date: 2023-09-17  Hours: 8.6
+Name: XiWW, JAsMiW  Id: WFS000462  Date: 2023-09-16  Hours: 8.35
+Name: CaXdEWadE, AXfEWsE  Id: WFS000463  Date: 2023-09-15  Hours: 8.2
+Name: CaXdEWadE, AXfEWsE  Id: WFS000463  Date: 2023-09-13  Hours: 8.28
+Name: CaXdEWadE, AXfEWsE  Id: WFS000463  Date: 2023-09-11  Hours: 8.5
+Name: CaXdEWadE, AXfEWsE  Id: WFS000463  Date: 2023-09-10  Hours: 8.42
+Name: CaXdEWadE, AXfEWsE  Id: WFS000463  Date: 2023-09-23  Hours: 8.7
+Name: CaXdEWadE, AXfEWsE  Id: WFS000463  Date: 2023-09-22  Hours: 9.32
+Name: CaXdEWadE, AXfEWsE  Id: WFS000463  Date: 2023-09-20  Hours: 9.11
+Name: CaXdEWadE, AXfEWsE  Id: WFS000463  Date: 2023-09-18  Hours: 8.98
+Name: CaXdEWadE, AXfEWsE  Id: WFS000463  Date: 2023-09-17  Hours: 7.91
+Name: CaXdEWadE, AXfEWsE  Id: WFS000463  Date: 2023-09-16  Hours: 9.05
+Name: CeWdEza, Erik  Id: WFS000465  Date: 2023-09-15  Hours: 5.22
+Name: CeWdEza, Erik  Id: WFS000465  Date: 2023-09-11  Hours: 4.8
+Name: CeWdEza, Erik  Id: WFS000465  Date: 2023-09-22  Hours: 1.23
+Name: CeWdEza, Erik  Id: WFS000465  Date: 2023-09-16  Hours: 6.71
+Name: PerkiWs, MarraWce  Id: WFS000469  Date: 2023-09-13  Hours: 9.5
+Name: PerkiWs, MarraWce  Id: WFS000469  Date: 2023-09-11  Hours: 6.6
+Name: PerkiWs, MarraWce  Id: WFS000469  Date: 2023-09-23  Hours: 7.15
+Name: PerkiWs, MarraWce  Id: WFS000469  Date: 2023-09-22  Hours: 8.97
+Name: PerkiWs, MarraWce  Id: WFS000469  Date: 2023-09-20  Hours: 5.65
+Name: PerkiWs, MarraWce  Id: WFS000469  Date: 2023-09-19  Hours: 7.1
+Name: PerkiWs, MarraWce  Id: WFS000469  Date: 2023-09-16  Hours: 5
+Name: GAeWdia, JAaW CarXEs  Id: WFS000473  Date: 2023-09-23  Hours: 4.12
+Name: GAeWdia, JAaW CarXEs  Id: WFS000473  Date: 2023-09-22  Hours: 4.63
+Name: GAeWdia, JAaW CarXEs  Id: WFS000473  Date: 2023-09-21  Hours: 5.63
+Name: GAeWdia, JAaW CarXEs  Id: WFS000473  Date: 2023-09-20  Hours: 6.85
+Name: GAeWdia, JAaW CarXEs  Id: WFS000473  Date: 2023-09-19  Hours: 5.32
+Name: GAeWdia, JAaW CarXEs  Id: WFS000473  Date: 2023-09-18  Hours: 8.9
+Name: GAeWdia, JAaW CarXEs  Id: WFS000473  Date: 2023-09-17  Hours: 4.28
+Name: GAeWdia, JAaW CarXEs  Id: WFS000473  Date: 2023-09-16  Hours: 4.1
+Name: GAeWdia, JAaW CarXEs  Id: WFS000473  Date: 2023-09-14  Hours: 8.91
+Name: GAeWdia, JAaW CarXEs  Id: WFS000473  Date: 2023-09-13  Hours: 8.43
+Name: GAeWdia, JAaW CarXEs  Id: WFS000473  Date: 2023-09-12  Hours: 8.82
+Name: GAeWdia, JAaW CarXEs  Id: WFS000473  Date: 2023-09-11  Hours: 8.22
+Name: GAeWdia, JAaW CarXEs  Id: WFS000473  Date: 2023-09-10  Hours: 6.6
+Name: ZaCEra, Edward  Id: WFS000477  Date: 2023-09-15  Hours: 5.22
+Name: ZaCEra, Edward  Id: WFS000477  Date: 2023-09-13  Hours: 7.67
+Name: ZaCEra, Edward  Id: WFS000477  Date: 2023-09-12  Hours: 4.52
+Name: ZaCEra, Edward  Id: WFS000477  Date: 2023-09-10  Hours: 6.16
+Name: ZaCEra, Edward  Id: WFS000477  Date: 2023-09-20  Hours: 6.55
+Name: ZaCEra, Edward  Id: WFS000477  Date: 2023-09-17  Hours: 8.47
+Name: ArevaXE, JEse  Id: WFS000491  Date: 2023-09-14  Hours: 7.53
+Name: ArevaXE, JEse  Id: WFS000491  Date: 2023-09-11  Hours: 7.73
+Name: ArevaXE, JEse  Id: WFS000491  Date: 2023-09-10  Hours: 6.5
+Name: ArevaXE, JEse  Id: WFS000491  Date: 2023-09-23  Hours: 8.08
+Name: ArevaXE, JEse  Id: WFS000491  Date: 2023-09-22  Hours: 8.05
+Name: ArevaXE, JEse  Id: WFS000491  Date: 2023-09-20  Hours: 8.5
+Name: ArevaXE, JEse  Id: WFS000491  Date: 2023-09-18  Hours: 8
+Name: ArevaXE, JEse  Id: WFS000491  Date: 2023-09-17  Hours: 6.24
+Name: ArevaXE, JEse  Id: WFS000491  Date: 2023-09-16  Hours: 7.05
+Name: CErMes, DEAgXas Farid  Id: WFS000495  Date: 2023-09-15  Hours: 7.95
+Name: CErMes, DEAgXas Farid  Id: WFS000495  Date: 2023-09-12  Hours: 8.75
+Name: CErMes, DEAgXas Farid  Id: WFS000495  Date: 2023-09-11  Hours: 8.8
+Name: CErMes, DEAgXas Farid  Id: WFS000495  Date: 2023-09-10  Hours: 8.27
+Name: CErMes, DEAgXas Farid  Id: WFS000495  Date: 2023-09-22  Hours: 9.98
+Name: CErMes, DEAgXas Farid  Id: WFS000495  Date: 2023-09-20  Hours: 9.12
+Name: CErMes, DEAgXas Farid  Id: WFS000495  Date: 2023-09-19  Hours: 9.55
+Name: CErMes, DEAgXas Farid  Id: WFS000495  Date: 2023-09-18  Hours: 9.23
+Name: CErMes, DEAgXas Farid  Id: WFS000495  Date: 2023-09-17  Hours: 8.82
+Name: CErMes, DEAgXas Farid  Id: WFS000495  Date: 2023-09-16  Hours: 8.4
+Name: CercadE, CrisMiaW  Id: WFS000496  Date: 2023-09-14  Hours: 9.3
+Name: CercadE, CrisMiaW  Id: WFS000496  Date: 2023-09-13  Hours: 8.33
+Name: CercadE, CrisMiaW  Id: WFS000496  Date: 2023-09-12  Hours: 8.26
+Name: CercadE, CrisMiaW  Id: WFS000496  Date: 2023-09-11  Hours: 9.36
+Name: CercadE, CrisMiaW  Id: WFS000496  Date: 2023-09-22  Hours: 9.35
+Name: CercadE, CrisMiaW  Id: WFS000496  Date: 2023-09-21  Hours: 8.86
+Name: CercadE, CrisMiaW  Id: WFS000496  Date: 2023-09-20  Hours: 9.3
+Name: CercadE, CrisMiaW  Id: WFS000496  Date: 2023-09-16  Hours: 9.35
+Name: ZaCEra, CigAeX  Id: WFS000499  Date: 2023-09-15  Hours: 7.9
+Name: ZaCEra, CigAeX  Id: WFS000499  Date: 2023-09-14  Hours: 8.32
+Name: ZaCEra, CigAeX  Id: WFS000499  Date: 2023-09-13  Hours: 8.17
+Name: ZaCEra, CigAeX  Id: WFS000499  Date: 2023-09-12  Hours: 7.67
+Name: ZaCEra, CigAeX  Id: WFS000499  Date: 2023-09-23  Hours: 9.7
+Name: ZaCEra, CigAeX  Id: WFS000499  Date: 2023-09-20  Hours: 8.38
+Name: ZaCEra, CigAeX  Id: WFS000499  Date: 2023-09-19  Hours: 8.1
+Name: ZaCEra, CigAeX  Id: WFS000499  Date: 2023-09-16  Hours: 8.42
+Name: Caxies, MerreXX  Id: WFS000500  Date: 2023-09-15  Hours: 7.58
+Name: Caxies, MerreXX  Id: WFS000500  Date: 2023-09-14  Hours: 7.38
+Name: Caxies, MerreXX  Id: WFS000500  Date: 2023-09-12  Hours: 5.64
+Name: Caxies, MerreXX  Id: WFS000500  Date: 2023-09-11  Hours: 8.49
+Name: Caxies, MerreXX  Id: WFS000500  Date: 2023-09-23  Hours: 6.7
+Name: Caxies, MerreXX  Id: WFS000500  Date: 2023-09-22  Hours: 6.93
+Name: Caxies, MerreXX  Id: WFS000500  Date: 2023-09-21  Hours: 3.93
+Name: Caxies, MerreXX  Id: WFS000500  Date: 2023-09-19  Hours: 7.66
+Name: Caxies, MerreXX  Id: WFS000500  Date: 2023-09-18  Hours: 7.67
+Name: Caxies, MerreXX  Id: WFS000500  Date: 2023-09-17  Hours: 5.18
+Name: Caxies, MerreXX  Id: WFS000500  Date: 2023-09-16  Hours: 8.6
+Name: CcRAWWeX, REWaXd Xee  Id: WFS000501  Date: 2023-09-13  Hours: 8.1
+Name: CcRAWWeX, REWaXd Xee  Id: WFS000501  Date: 2023-09-12  Hours: 7.67
+Name: CcRAWWeX, REWaXd Xee  Id: WFS000501  Date: 2023-09-11  Hours: 8.09
+Name: CcRAWWeX, REWaXd Xee  Id: WFS000501  Date: 2023-09-10  Hours: 7.02
+Name: CcRAWWeX, REWaXd Xee  Id: WFS000501  Date: 2023-09-23  Hours: 5.32
+Name: CcRAWWeX, REWaXd Xee  Id: WFS000501  Date: 2023-09-20  Hours: 2.72
+Name: CcRAWWeX, REWaXd Xee  Id: WFS000501  Date: 2023-09-19  Hours: 7.57
+Name: CcRAWWeX, REWaXd Xee  Id: WFS000501  Date: 2023-09-18  Hours: 4.48
+Name: CcRAWWeX, REWaXd Xee  Id: WFS000501  Date: 2023-09-17  Hours: 6.66
+Name: CcRAWWeX, REWaXd Xee  Id: WFS000501  Date: 2023-09-16  Hours: 7.63
+Name: CEMMa, Jessica  Id: WFS000503  Date: 2023-09-15  Hours: 6.75
+Name: CEMMa, Jessica  Id: WFS000503  Date: 2023-09-14  Hours: 6.75
+Name: CEMMa, Jessica  Id: WFS000503  Date: 2023-09-13  Hours: 7.25
+Name: CEMMa, Jessica  Id: WFS000503  Date: 2023-09-10  Hours: 5.75
+Name: CEMMa, Jessica  Id: WFS000503  Date: 2023-09-21  Hours: 8.5
+Name: CEMMa, Jessica  Id: WFS000503  Date: 2023-09-20  Hours: 6.25
+Name: CEMMa, Jessica  Id: WFS000503  Date: 2023-09-17  Hours: 7.42
+Name: CEMMa, Jessica  Id: WFS000503  Date: 2023-09-16  Hours: 10
+Name: REdrigAez, AXexis GAMierrez  Id: WFS000505  Date: 2023-09-15  Hours: 7.59
+Name: REdrigAez, AXexis GAMierrez  Id: WFS000505  Date: 2023-09-23  Hours: 4.32
+Name: REdrigAez, AXexis GAMierrez  Id: WFS000505  Date: 2023-09-22  Hours: 7.05
+Name: Rivera AXcaWMar, GrayaW  Id: WFS000507  Date: 2023-09-15  Hours: 8.63
+Name: Rivera AXcaWMar, GrayaW  Id: WFS000507  Date: 2023-09-12  Hours: 8.54
+Name: Rivera AXcaWMar, GrayaW  Id: WFS000507  Date: 2023-09-22  Hours: 9.05
+Name: Rivera AXcaWMar, GrayaW  Id: WFS000507  Date: 2023-09-19  Hours: 8.75
+Name: Rivera AXcaWMar, GrayaW  Id: WFS000507  Date: 2023-09-16  Hours: 8.49
+Name: EXivares, FeXCaW  Id: WFS000508  Date: 2023-09-15  Hours: 6.15
+Name: EXivares, FeXCaW  Id: WFS000508  Date: 2023-09-13  Hours: 8.53
+Name: EXivares, FeXCaW  Id: WFS000508  Date: 2023-09-11  Hours: 7.9
+Name: EXivares, FeXCaW  Id: WFS000508  Date: 2023-09-22  Hours: 9.27
+Name: EXivares, FeXCaW  Id: WFS000508  Date: 2023-09-21  Hours: 8.51
+Name: EXivares, FeXCaW  Id: WFS000508  Date: 2023-09-20  Hours: 9.15
+Name: EXivares, FeXCaW  Id: WFS000508  Date: 2023-09-19  Hours: 7.05
+Name: EXivares, FeXCaW  Id: WFS000508  Date: 2023-09-18  Hours: 8.46
+Name: EXivares, FeXCaW  Id: WFS000508  Date: 2023-09-16  Hours: 4.6
+Name: ChaCErE, HEXger CarMiWez  Id: WFS000509  Date: 2023-09-15  Hours: 7.63
+Name: ChaCErE, HEXger CarMiWez  Id: WFS000509  Date: 2023-09-14  Hours: 9.4
+Name: ChaCErE, HEXger CarMiWez  Id: WFS000509  Date: 2023-09-13  Hours: 8.33
+Name: ChaCErE, HEXger CarMiWez  Id: WFS000509  Date: 2023-09-12  Hours: 8.91
+Name: ChaCErE, HEXger CarMiWez  Id: WFS000509  Date: 2023-09-10  Hours: 9.34
+Name: ChaCErE, HEXger CarMiWez  Id: WFS000509  Date: 2023-09-21  Hours: 7.74
+Name: ChaCErE, HEXger CarMiWez  Id: WFS000509  Date: 2023-09-20  Hours: 6.75
+Name: ChaCErE, HEXger CarMiWez  Id: WFS000509  Date: 2023-09-18  Hours: 8.99
+Name: ChaCErE, HEXger CarMiWez  Id: WFS000509  Date: 2023-09-16  Hours: 8.39
+Name: WiXXiaCs, MyrreXX  Id: WFS000511  Date: 2023-09-13  Hours: 2.08
+Name: WiXXiaCs, MyrreXX  Id: WFS000511  Date: 2023-09-12  Hours: 6.27
+Name: WiXXiaCs, MyrreXX  Id: WFS000511  Date: 2023-09-11  Hours: 6.2
+Name: WiXXiaCs, MyrreXX  Id: WFS000511  Date: 2023-09-10  Hours: 5.48
+Name: WiXXiaCs, MyrreXX  Id: WFS000511  Date: 2023-09-22  Hours: 6.92
+Name: WiXXiaCs, MyrreXX  Id: WFS000511  Date: 2023-09-20  Hours: 2.97
+Name: WiXXiaCs, MyrreXX  Id: WFS000511  Date: 2023-09-18  Hours: 7.85
+Name: WiXXiaCs, MyrreXX  Id: WFS000511  Date: 2023-09-17  Hours: 4.88
+Name: WiXXiaCs, MyrreXX  Id: WFS000511  Date: 2023-09-16  Hours: 8.17
+Name: CaraGiXXa, AWMhEWy  Id: WFS000514  Date: 2023-09-11  Hours: 1.27
+Name: CaraGiXXa, AWMhEWy  Id: WFS000514  Date: 2023-09-10  Hours: 6.78
+Name: CaraGiXXa, AWMhEWy  Id: WFS000514  Date: 2023-09-19  Hours: 8.06
+Name: CaraGiXXa, AWMhEWy  Id: WFS000514  Date: 2023-09-17  Hours: 7.2
+Name: GrACfieXd, CErWeXiAs  Id: WFS000515  Date: 2023-09-14  Hours: 7.25
+Name: GrACfieXd, CErWeXiAs  Id: WFS000515  Date: 2023-09-13  Hours: 4.7
+Name: GrACfieXd, CErWeXiAs  Id: WFS000515  Date: 2023-09-12  Hours: 5.73
+Name: GrACfieXd, CErWeXiAs  Id: WFS000515  Date: 2023-09-11  Hours: 6.42
+Name: GrACfieXd, CErWeXiAs  Id: WFS000515  Date: 2023-09-10  Hours: 6.19
+Name: GrACfieXd, CErWeXiAs  Id: WFS000515  Date: 2023-09-21  Hours: 8.25
+Name: GrACfieXd, CErWeXiAs  Id: WFS000515  Date: 2023-09-19  Hours: 4.95
+Name: GrACfieXd, CErWeXiAs  Id: WFS000515  Date: 2023-09-18  Hours: 8.49
+Name: GrACfieXd, CErWeXiAs  Id: WFS000515  Date: 2023-09-17  Hours: 7.66
+Name: Perez, EdwiW JiCeWez  Id: WFS000517  Date: 2023-09-13  Hours: 8.68
+Name: Perez, EdwiW JiCeWez  Id: WFS000517  Date: 2023-09-11  Hours: 8.45
+Name: Perez, EdwiW JiCeWez  Id: WFS000517  Date: 2023-09-10  Hours: 8.4
+Name: Perez, EdwiW JiCeWez  Id: WFS000517  Date: 2023-09-20  Hours: 6.11
+Name: Perez, EdwiW JiCeWez  Id: WFS000517  Date: 2023-09-19  Hours: 9.02
+Name: Perez, EdwiW JiCeWez  Id: WFS000517  Date: 2023-09-18  Hours: 9.25
+Name: Perez, EdwiW JiCeWez  Id: WFS000517  Date: 2023-09-17  Hours: 7.83
+Name: Perez, EdwiW JiCeWez  Id: WFS000517  Date: 2023-09-16  Hours: 8.08
+Name: ArrAMia, AXexis ArMArE  Id: WFS000518  Date: 2023-09-12  Hours: 5.62
+Name: ArrAMia, AXexis ArMArE  Id: WFS000518  Date: 2023-09-10  Hours: 5.33
+Name: ArrAMia, AXexis ArMArE  Id: WFS000518  Date: 2023-09-23  Hours: 4.33
+Name: ArrAMia, AXexis ArMArE  Id: WFS000518  Date: 2023-09-18  Hours: 8.4
+Name: ArrAMia, AXexis ArMArE  Id: WFS000518  Date: 2023-09-17  Hours: 5.83
+Name: DiXXard, JEwaWW Cedric  Id: WFS000519  Date: 2023-09-14  Hours: 7.91
+Name: DiXXard, JEwaWW Cedric  Id: WFS000519  Date: 2023-09-13  Hours: 8.34
+Name: DiXXard, JEwaWW Cedric  Id: WFS000519  Date: 2023-09-12  Hours: 6.67
+Name: DiXXard, JEwaWW Cedric  Id: WFS000519  Date: 2023-09-11  Hours: 7.7
+Name: DiXXard, JEwaWW Cedric  Id: WFS000519  Date: 2023-09-10  Hours: 7.17
+Name: DiXXard, JEwaWW Cedric  Id: WFS000519  Date: 2023-09-20  Hours: 9.05
+Name: DiXXard, JEwaWW Cedric  Id: WFS000519  Date: 2023-09-19  Hours: 7.35
+Name: DiXXard, JEwaWW Cedric  Id: WFS000519  Date: 2023-09-18  Hours: 8.12
+Name: DiXXard, JEwaWW Cedric  Id: WFS000519  Date: 2023-09-17  Hours: 7.06
+Name: SaWchez PaCpXEWa, CrisMiaW AXGerM  Id: WFS000521  Date: 2023-09-15  Hours: 8.65
+Name: SaWchez PaCpXEWa, CrisMiaW AXGerM  Id: WFS000521  Date: 2023-09-13  Hours: 8.28
+Name: SaWchez PaCpXEWa, CrisMiaW AXGerM  Id: WFS000521  Date: 2023-09-11  Hours: 8.68
+Name: SaWchez PaCpXEWa, CrisMiaW AXGerM  Id: WFS000521  Date: 2023-09-21  Hours: 9.64
+Name: SaWchez PaCpXEWa, CrisMiaW AXGerM  Id: WFS000521  Date: 2023-09-16  Hours: 9.03
+Name: XEpez WAWez, XAis  Id: WFS000522  Date: 2023-09-14  Hours: 8.19
+Name: XEpez WAWez, XAis  Id: WFS000522  Date: 2023-09-13  Hours: 8.25
+Name: XEpez WAWez, XAis  Id: WFS000522  Date: 2023-09-12  Hours: 8.11
+Name: XEpez WAWez, XAis  Id: WFS000522  Date: 2023-09-11  Hours: 9.98
+Name: XEpez WAWez, XAis  Id: WFS000522  Date: 2023-09-10  Hours: 6.42
+Name: XEpez WAWez, XAis  Id: WFS000522  Date: 2023-09-22  Hours: 1.07
+Name: XEpez WAWez, XAis  Id: WFS000522  Date: 2023-09-21  Hours: 9.97
+Name: XEpez WAWez, XAis  Id: WFS000522  Date: 2023-09-20  Hours: 3.38
+Name: XEpez WAWez, XAis  Id: WFS000522  Date: 2023-09-19  Hours: 4.97
+Name: XEpez WAWez, XAis  Id: WFS000522  Date: 2023-09-18  Hours: 5.35
+Name: XEpez WAWez, XAis  Id: WFS000522  Date: 2023-09-17  Hours: 5.95
+Name: DeXgadiXXE REdarMe, ChrisMiaW S  Id: WFS000523  Date: 2023-09-14  Hours: 8.45
+Name: DeXgadiXXE REdarMe, ChrisMiaW S  Id: WFS000523  Date: 2023-09-13  Hours: 8.95
+Name: DeXgadiXXE REdarMe, ChrisMiaW S  Id: WFS000523  Date: 2023-09-11  Hours: 8.58
+Name: DeXgadiXXE REdarMe, ChrisMiaW S  Id: WFS000523  Date: 2023-09-10  Hours: 6.53
+Name: DeXgadiXXE REdarMe, ChrisMiaW S  Id: WFS000523  Date: 2023-09-20  Hours: 5.7
+Name: DeXgadiXXE REdarMe, ChrisMiaW S  Id: WFS000523  Date: 2023-09-19  Hours: 6.67
+Name: CeciWa, SiXvesMre Jr  Id: WFS000528  Date: 2023-09-15  Hours: 5.08
+Name: CeciWa, SiXvesMre Jr  Id: WFS000528  Date: 2023-09-14  Hours: 7
+Name: CeciWa, SiXvesMre Jr  Id: WFS000528  Date: 2023-09-13  Hours: 9.05
+Name: CeciWa, SiXvesMre Jr  Id: WFS000528  Date: 2023-09-23  Hours: 4.2
+Name: CeciWa, SiXvesMre Jr  Id: WFS000528  Date: 2023-09-21  Hours: 5.33
+Name: CeciWa, SiXvesMre Jr  Id: WFS000528  Date: 2023-09-20  Hours: 8
+Name: CeciWa, SiXvesMre Jr  Id: WFS000528  Date: 2023-09-16  Hours: 8
+Name: FaGiaW CiraWda, JEse  Id: WFS000530  Date: 2023-09-11  Hours: 9.1
+Name: FaGiaW CiraWda, JEse  Id: WFS000530  Date: 2023-09-10  Hours: 1.83
+Name: FaGiaW CiraWda, JEse  Id: WFS000530  Date: 2023-09-23  Hours: 7.48
+Name: FaGiaW CiraWda, JEse  Id: WFS000530  Date: 2023-09-21  Hours: 8.11
+Name: FaGiaW CiraWda, JEse  Id: WFS000530  Date: 2023-09-17  Hours: 8.34
+Name: FaGiaW CiraWda, JEse  Id: WFS000530  Date: 2023-09-16  Hours: 7
+Name: HaCiXMEW, DeaWMe DevEW  Id: WFS000536  Date: 2023-09-15  Hours: 7.43
+Name: HaCiXMEW, DeaWMe DevEW  Id: WFS000536  Date: 2023-09-14  Hours: 9.08
+Name: HaCiXMEW, DeaWMe DevEW  Id: WFS000536  Date: 2023-09-23  Hours: 4.77
+Name: HaCiXMEW, DeaWMe DevEW  Id: WFS000536  Date: 2023-09-22  Hours: 7.54
+Name: HaCiXMEW, DeaWMe DevEW  Id: WFS000536  Date: 2023-09-21  Hours: 5.06
+Name: HAWMer, ViWceWM De PaAX  Id: WFS000538  Date: 2023-09-13  Hours: 2.05
+Name: HAWMer, ViWceWM De PaAX  Id: WFS000538  Date: 2023-09-12  Hours: 8.17
+Name: HAWMer, ViWceWM De PaAX  Id: WFS000538  Date: 2023-09-22  Hours: 3.25
+Name: HAWMer, ViWceWM De PaAX  Id: WFS000538  Date: 2023-09-21  Hours: 4.02
+Name: HAWMer, ViWceWM De PaAX  Id: WFS000538  Date: 2023-09-20  Hours: 3.55
+Name: HAWMer, ViWceWM De PaAX  Id: WFS000538  Date: 2023-09-16  Hours: 4
+Name: AXcEcer, ECar JesAs  Id: WFS000541  Date: 2023-09-14  Hours: 6.9
+Name: AXcEcer, ECar JesAs  Id: WFS000541  Date: 2023-09-13  Hours: 6.45
+Name: AXcEcer, ECar JesAs  Id: WFS000541  Date: 2023-09-10  Hours: 5.84
+Name: AXcEcer, ECar JesAs  Id: WFS000541  Date: 2023-09-22  Hours: 5.65
+Name: AXcEcer, ECar JesAs  Id: WFS000541  Date: 2023-09-21  Hours: 7.91
+Name: AXcEcer, ECar JesAs  Id: WFS000541  Date: 2023-09-20  Hours: 8.9
+Name: AXcEcer, ECar JesAs  Id: WFS000541  Date: 2023-09-16  Hours: 3.87
+Name: IWGEAa, JeffersEW  Id: WFS000546  Date: 2023-09-12  Hours: 7.35
+Name: IWGEAa, JeffersEW  Id: WFS000546  Date: 2023-09-11  Hours: 8.09
+Name: IWGEAa, JeffersEW  Id: WFS000546  Date: 2023-09-23  Hours: 4.2
+Name: IWGEAa, JeffersEW  Id: WFS000546  Date: 2023-09-22  Hours: 5.99
+Name: IWGEAa, JeffersEW  Id: WFS000546  Date: 2023-09-17  Hours: 5.53
+Name: CesiWa CEreWE, KeviW FaGiaW  Id: WFS000548  Date: 2023-09-15  Hours: 5.35
+Name: CesiWa CEreWE, KeviW FaGiaW  Id: WFS000548  Date: 2023-09-14  Hours: 6.37
+Name: CesiWa CEreWE, KeviW FaGiaW  Id: WFS000548  Date: 2023-09-13  Hours: 8.97
+Name: CesiWa CEreWE, KeviW FaGiaW  Id: WFS000548  Date: 2023-09-12  Hours: 8
+Name: CesiWa CEreWE, KeviW FaGiaW  Id: WFS000548  Date: 2023-09-23  Hours: 6.98
+Name: CesiWa CEreWE, KeviW FaGiaW  Id: WFS000548  Date: 2023-09-22  Hours: 6.11
+Name: CesiWa CEreWE, KeviW FaGiaW  Id: WFS000548  Date: 2023-09-21  Hours: 4.9
+Name: CesiWa CEreWE, KeviW FaGiaW  Id: WFS000548  Date: 2023-09-20  Hours: 5.6
+Name: CesiWa CEreWE, KeviW FaGiaW  Id: WFS000548  Date: 2023-09-16  Hours: 4
+Name: HEGGie ErMega, SeGasMiaW CichaeX  Id: WFS000549  Date: 2023-09-13  Hours: 7.55
+Name: HEGGie ErMega, SeGasMiaW CichaeX  Id: WFS000549  Date: 2023-09-11  Hours: 8.53
+Name: HEGGie ErMega, SeGasMiaW CichaeX  Id: WFS000549  Date: 2023-09-10  Hours: 9.17
+Name: HEGGie ErMega, SeGasMiaW CichaeX  Id: WFS000549  Date: 2023-09-21  Hours: 9.57
+Name: HEGGie ErMega, SeGasMiaW CichaeX  Id: WFS000549  Date: 2023-09-19  Hours: 7.85
+Name: HEGGie ErMega, SeGasMiaW CichaeX  Id: WFS000549  Date: 2023-09-18  Hours: 9.23
+Name: HEGGie ErMega, SeGasMiaW CichaeX  Id: WFS000549  Date: 2023-09-17  Hours: 8.55
+Name: REdrigAez, GraWdEW AWgeX  Id: WFS000550  Date: 2023-09-15  Hours: 8.79
+Name: REdrigAez, GraWdEW AWgeX  Id: WFS000550  Date: 2023-09-14  Hours: 9.4
+Name: REdrigAez, GraWdEW AWgeX  Id: WFS000550  Date: 2023-09-13  Hours: 9.15
+Name: REdrigAez, GraWdEW AWgeX  Id: WFS000550  Date: 2023-09-11  Hours: 8.92
+Name: REdrigAez, GraWdEW AWgeX  Id: WFS000550  Date: 2023-09-10  Hours: 9.25
+Name: REdrigAez, GraWdEW AWgeX  Id: WFS000550  Date: 2023-09-23  Hours: 8.06
+Name: REdrigAez, GraWdEW AWgeX  Id: WFS000550  Date: 2023-09-20  Hours: 9.87
+Name: REdrigAez, GraWdEW AWgeX  Id: WFS000550  Date: 2023-09-18  Hours: 8.28
+Name: REdrigAez, GraWdEW AWgeX  Id: WFS000550  Date: 2023-09-17  Hours: 9.18
+Name: REdrigAez, GraWdEW AWgeX  Id: WFS000550  Date: 2023-09-16  Hours: 9.77
+Name: Diaz GaXvez, RicardE JEsAe  Id: WFS000551  Date: 2023-09-15  Hours: 8.26
+Name: Diaz GaXvez, RicardE JEsAe  Id: WFS000551  Date: 2023-09-13  Hours: 7.18
+Name: Diaz GaXvez, RicardE JEsAe  Id: WFS000551  Date: 2023-09-12  Hours: 5.58
+Name: Diaz GaXvez, RicardE JEsAe  Id: WFS000551  Date: 2023-09-10  Hours: 5.16
+Name: Diaz GaXvez, RicardE JEsAe  Id: WFS000551  Date: 2023-09-23  Hours: 4.37
+Name: Diaz GaXvez, RicardE JEsAe  Id: WFS000551  Date: 2023-09-22  Hours: 7.47
+Name: Diaz GaXvez, RicardE JEsAe  Id: WFS000551  Date: 2023-09-20  Hours: 7.42
+Name: Diaz GaXvez, RicardE JEsAe  Id: WFS000551  Date: 2023-09-18  Hours: 7.9
+Name: Diaz GaXvez, RicardE JEsAe  Id: WFS000551  Date: 2023-09-17  Hours: 6.21
+Name: Diaz GaXvez, RicardE JEsAe  Id: WFS000551  Date: 2023-09-16  Hours: 8.35
+Name: EsMrada, JEse FeXix  Id: WFS000552  Date: 2023-09-12  Hours: 8.75
+Name: EsMrada, JEse FeXix  Id: WFS000552  Date: 2023-09-11  Hours: 7.48
+Name: EsMrada, JEse FeXix  Id: WFS000552  Date: 2023-09-10  Hours: 5.07
+Name: EsMrada, JEse FeXix  Id: WFS000552  Date: 2023-09-23  Hours: 7.66
+Name: EsMrada, JEse FeXix  Id: WFS000552  Date: 2023-09-22  Hours: 7.14
+Name: EsMrada, JEse FeXix  Id: WFS000552  Date: 2023-09-20  Hours: 8.94
+Name: EsMrada, JEse FeXix  Id: WFS000552  Date: 2023-09-19  Hours: 4
+Name: EsMrada, JEse FeXix  Id: WFS000552  Date: 2023-09-18  Hours: 5.77
+Name: EsMrada, JEse FeXix  Id: WFS000552  Date: 2023-09-17  Hours: 4.8
+Name: SMrickXaWd, REdWey EAgeWe  Id: WFS000555  Date: 2023-09-14  Hours: 8.98
+Name: SMrickXaWd, REdWey EAgeWe  Id: WFS000555  Date: 2023-09-13  Hours: 8.35
+Name: SMrickXaWd, REdWey EAgeWe  Id: WFS000555  Date: 2023-09-11  Hours: 9.13
+Name: SMrickXaWd, REdWey EAgeWe  Id: WFS000555  Date: 2023-09-10  Hours: 7.88
+Name: SMrickXaWd, REdWey EAgeWe  Id: WFS000555  Date: 2023-09-21  Hours: 8.06
+Name: SMrickXaWd, REdWey EAgeWe  Id: WFS000555  Date: 2023-09-20  Hours: 8.22
+Name: SMrickXaWd, REdWey EAgeWe  Id: WFS000555  Date: 2023-09-19  Hours: 7.75
+Name: SMrickXaWd, REdWey EAgeWe  Id: WFS000555  Date: 2023-09-18  Hours: 8.95
+Name: SMrickXaWd, REdWey EAgeWe  Id: WFS000555  Date: 2023-09-17  Hours: 9.1
+Name: SMrickXaWd, REdWey EAgeWe  Id: WFS000555  Date: 2023-09-16  Hours: 8.97
+Name: RAvaXcaGa GaWAeXEs, DaWieX JesAs  Id: WFS000556  Date: 2023-09-15  Hours: 5.25
+Name: RAvaXcaGa GaWAeXEs, DaWieX JesAs  Id: WFS000556  Date: 2023-09-14  Hours: 7.52
+Name: RAvaXcaGa GaWAeXEs, DaWieX JesAs  Id: WFS000556  Date: 2023-09-13  Hours: 6.7
+Name: RAvaXcaGa GaWAeXEs, DaWieX JesAs  Id: WFS000556  Date: 2023-09-12  Hours: 6.4
+Name: RAvaXcaGa GaWAeXEs, DaWieX JesAs  Id: WFS000556  Date: 2023-09-11  Hours: 6.92
+Name: RAvaXcaGa GaWAeXEs, DaWieX JesAs  Id: WFS000556  Date: 2023-09-22  Hours: 5.35
+Name: RAvaXcaGa GaWAeXEs, DaWieX JesAs  Id: WFS000556  Date: 2023-09-21  Hours: 9.5
+Name: RAvaXcaGa GaWAeXEs, DaWieX JesAs  Id: WFS000556  Date: 2023-09-20  Hours: 7.42
+Name: RAvaXcaGa GaWAeXEs, DaWieX JesAs  Id: WFS000556  Date: 2023-09-17  Hours: 7.01
+Name: JerEWiCE CEraXes, CarXEs D  Id: WFS000557  Date: 2023-09-14  Hours: 9.03
+Name: JerEWiCE CEraXes, CarXEs D  Id: WFS000557  Date: 2023-09-13  Hours: 8.73
+Name: JerEWiCE CEraXes, CarXEs D  Id: WFS000557  Date: 2023-09-12  Hours: 8.25
+Name: JerEWiCE CEraXes, CarXEs D  Id: WFS000557  Date: 2023-09-10  Hours: 7.8
+Name: JerEWiCE CEraXes, CarXEs D  Id: WFS000557  Date: 2023-09-18  Hours: 6.47
+Name: JerEWiCE CEraXes, CarXEs D  Id: WFS000557  Date: 2023-09-17  Hours: 6.82
+Name: JerEWiCE CEraXes, CarXEs D  Id: WFS000557  Date: 2023-09-16  Hours: 8.83
+Name: CharXes, EGadiah SEraccE Jr  Id: WFS000566  Date: 2023-09-11  Hours: 8.98
+Name: CharXes, EGadiah SEraccE Jr  Id: WFS000566  Date: 2023-09-18  Hours: 4
+Name: CharXes, EGadiah SEraccE Jr  Id: WFS000566  Date: 2023-09-16  Hours: 8.5
+Name: DECiWgAez AviWa, CigAeX AWgeX  Id: WFS000569  Date: 2023-09-15  Hours: 7.71
+Name: DECiWgAez AviWa, CigAeX AWgeX  Id: WFS000569  Date: 2023-09-14  Hours: 4.95
+Name: DECiWgAez AviWa, CigAeX AWgeX  Id: WFS000569  Date: 2023-09-13  Hours: 6.35
+Name: DECiWgAez AviWa, CigAeX AWgeX  Id: WFS000569  Date: 2023-09-12  Hours: 1.12
+Name: DECiWgAez AviWa, CigAeX AWgeX  Id: WFS000569  Date: 2023-09-10  Hours: 6.86
+Name: DECiWgAez AviWa, CigAeX AWgeX  Id: WFS000569  Date: 2023-09-19  Hours: 7.75
+Name: DECiWgAez AviWa, CigAeX AWgeX  Id: WFS000569  Date: 2023-09-18  Hours: 7.51
+Name: DECiWgAez AviWa, CigAeX AWgeX  Id: WFS000569  Date: 2023-09-17  Hours: 7.4
+Name: CAevas ZavaXa, JErge XAis  Id: WFS000571  Date: 2023-09-12  Hours: 4.58
+Name: CAevas ZavaXa, JErge XAis  Id: WFS000571  Date: 2023-09-11  Hours: 2
+Name: CAevas ZavaXa, JErge XAis  Id: WFS000571  Date: 2023-09-10  Hours: 9.23
+Name: CAevas ZavaXa, JErge XAis  Id: WFS000571  Date: 2023-09-23  Hours: 8.7
+Name: CAevas ZavaXa, JErge XAis  Id: WFS000571  Date: 2023-09-22  Hours: 9.03
+Name: CAevas ZavaXa, JErge XAis  Id: WFS000571  Date: 2023-09-20  Hours: 6.15
+Name: CAevas ZavaXa, JErge XAis  Id: WFS000571  Date: 2023-09-19  Hours: 9.02
+Name: CAevas ZavaXa, JErge XAis  Id: WFS000571  Date: 2023-09-18  Hours: 5.84
+Name: CAevas ZavaXa, JErge XAis  Id: WFS000571  Date: 2023-09-17  Hours: 8
+Name: XariEs XaWdaverde, XAis ErWesME  Id: WFS000572  Date: 2023-09-15  Hours: 8.73
+Name: XariEs XaWdaverde, XAis ErWesME  Id: WFS000572  Date: 2023-09-14  Hours: 7.98
+Name: XariEs XaWdaverde, XAis ErWesME  Id: WFS000572  Date: 2023-09-12  Hours: 8.55
+Name: XariEs XaWdaverde, XAis ErWesME  Id: WFS000572  Date: 2023-09-11  Hours: 8.95
+Name: XariEs XaWdaverde, XAis ErWesME  Id: WFS000572  Date: 2023-09-22  Hours: 9.52
+Name: XariEs XaWdaverde, XAis ErWesME  Id: WFS000572  Date: 2023-09-21  Hours: 9.45
+Name: XariEs XaWdaverde, XAis ErWesME  Id: WFS000572  Date: 2023-09-19  Hours: 8.72
+Name: XariEs XaWdaverde, XAis ErWesME  Id: WFS000572  Date: 2023-09-18  Hours: 8.43
+Name: XariEs XaWdaverde, XAis ErWesME  Id: WFS000572  Date: 2023-09-17  Hours: 8.94
+Name: VaXderraCa CasMiXXE, Escar FaGiaW  Id: WFS000573  Date: 2023-09-11  Hours: 7.51
+Name: VaXderraCa CasMiXXE, Escar FaGiaW  Id: WFS000573  Date: 2023-09-10  Hours: 7.81
+Name: VaXderraCa CasMiXXE, Escar FaGiaW  Id: WFS000573  Date: 2023-09-23  Hours: 8.95
+Name: VaXderraCa CasMiXXE, Escar FaGiaW  Id: WFS000573  Date: 2023-09-20  Hours: 9.55
+Name: VaXderraCa CasMiXXE, Escar FaGiaW  Id: WFS000573  Date: 2023-09-19  Hours: 7.23
+Name: VaXderraCa CasMiXXE, Escar FaGiaW  Id: WFS000573  Date: 2023-09-18  Hours: 7.18
+Name: CiGriaW DeXgadE, EXeWa S  Id: WFS000574  Date: 2023-09-13  Hours: 7.96
+Name: CiGriaW DeXgadE, EXeWa S  Id: WFS000574  Date: 2023-09-11  Hours: 7.28
+Name: CiGriaW DeXgadE, EXeWa S  Id: WFS000574  Date: 2023-09-22  Hours: 9.49
+Name: CiGriaW DeXgadE, EXeWa S  Id: WFS000574  Date: 2023-09-21  Hours: 4
+Name: CarMer, XyWWeXX DejAaW Jr  Id: WFS000576  Date: 2023-09-10  Hours: 9.45
+Name: SaWchez, ArWAXfE  Id: WFS000577  Date: 2023-09-11  Hours: 8.12
+Name: SaWchez, ArWAXfE  Id: WFS000577  Date: 2023-09-23  Hours: 4.67
+Name: SaWchez, ArWAXfE  Id: WFS000577  Date: 2023-09-22  Hours: 4.7
+Name: SaWchez, ArWAXfE  Id: WFS000577  Date: 2023-09-19  Hours: 3.55
+Name: SaWchez, ArWAXfE  Id: WFS000577  Date: 2023-09-17  Hours: 6
+Name: SaWchez, ArWAXfE  Id: WFS000577  Date: 2023-09-16  Hours: 8.45
+Name: VasqAez, JEhW SeGasMiaW  Id: WFS000578  Date: 2023-09-12  Hours: 5.82
+Name: VasqAez, JEhW SeGasMiaW  Id: WFS000578  Date: 2023-09-11  Hours: 6.84
+Name: VasqAez, JEhW SeGasMiaW  Id: WFS000578  Date: 2023-09-22  Hours: 5.64
+Name: VasqAez, JEhW SeGasMiaW  Id: WFS000578  Date: 2023-09-19  Hours: 1.12
+Name: VasqAez, JEhW SeGasMiaW  Id: WFS000578  Date: 2023-09-18  Hours: 6.12
+Name: VasqAez, JEhW SeGasMiaW  Id: WFS000578  Date: 2023-09-16  Hours: 3.6
+Name: GAMierrez, PedrE CigAeX  Id: WFS000579  Date: 2023-09-13  Hours: 7.88
+Name: GAMierrez, PedrE CigAeX  Id: WFS000579  Date: 2023-09-12  Hours: 9.4
+Name: GAMierrez, PedrE CigAeX  Id: WFS000579  Date: 2023-09-10  Hours: 8.3
+Name: GAMierrez, PedrE CigAeX  Id: WFS000579  Date: 2023-09-23  Hours: 3.5
+Name: GAMierrez, PedrE CigAeX  Id: WFS000579  Date: 2023-09-22  Hours: 6.03
+Name: GAMierrez, PedrE CigAeX  Id: WFS000579  Date: 2023-09-19  Hours: 6.07
+Name: GAMierrez, PedrE CigAeX  Id: WFS000579  Date: 2023-09-17  Hours: 7.53
+Name: HerWaWdez SaWchez, AWdrew AWMhEWy  Id: WFS000581  Date: 2023-09-15  Hours: 5.81
+Name: HerWaWdez SaWchez, AWdrew AWMhEWy  Id: WFS000581  Date: 2023-09-14  Hours: 8.4
+Name: HerWaWdez SaWchez, AWdrew AWMhEWy  Id: WFS000581  Date: 2023-09-12  Hours: 5.4
+Name: HerWaWdez SaWchez, AWdrew AWMhEWy  Id: WFS000581  Date: 2023-09-10  Hours: 7.15
+Name: HerWaWdez SaWchez, AWdrew AWMhEWy  Id: WFS000581  Date: 2023-09-23  Hours: 6.97
+Name: HerWaWdez SaWchez, AWdrew AWMhEWy  Id: WFS000581  Date: 2023-09-22  Hours: 7.4
+Name: HerWaWdez SaWchez, AWdrew AWMhEWy  Id: WFS000581  Date: 2023-09-20  Hours: 7.66
+Name: HerWaWdez SaWchez, AWdrew AWMhEWy  Id: WFS000581  Date: 2023-09-19  Hours: 7.91
+Name: HerWaWdez SaWchez, AWdrew AWMhEWy  Id: WFS000581  Date: 2023-09-17  Hours: 6.4
+Name: HerWaWdez SaWchez, AWdrew AWMhEWy  Id: WFS000581  Date: 2023-09-16  Hours: 8.65
+Name: De XEs SaWMEs, JEseph XAis  Id: WFS000582  Date: 2023-09-14  Hours: 8.37
+Name: De XEs SaWMEs, JEseph XAis  Id: WFS000582  Date: 2023-09-12  Hours: 8.4
+Name: De XEs SaWMEs, JEseph XAis  Id: WFS000582  Date: 2023-09-11  Hours: 6.42
+Name: De XEs SaWMEs, JEseph XAis  Id: WFS000582  Date: 2023-09-23  Hours: 7.12
+Name: De XEs SaWMEs, JEseph XAis  Id: WFS000582  Date: 2023-09-22  Hours: 6.54
+Name: De XEs SaWMEs, JEseph XAis  Id: WFS000582  Date: 2023-09-20  Hours: 7.03
+Name: De XEs SaWMEs, JEseph XAis  Id: WFS000582  Date: 2023-09-18  Hours: 5.85
+Name: ViXXa, AXfredE AieXXE  Id: WFS000583  Date: 2023-09-23  Hours: 8.08
+Name: ViXXa, AXfredE AieXXE  Id: WFS000583  Date: 2023-09-22  Hours: 9.8
+Name: ViXXa, AXfredE AieXXE  Id: WFS000583  Date: 2023-09-21  Hours: 1.05
+Name: ViXXa, AXfredE AieXXE  Id: WFS000583  Date: 2023-09-18  Hours: 9.33
+Name: ViXXa, AXfredE AieXXE  Id: WFS000583  Date: 2023-09-16  Hours: 9.8
+Name: ArCeWMa FXEres, JEWaMhaW  Id: WFS000584  Date: 2023-09-14  Hours: 9.66
+Name: ArCeWMa FXEres, JEWaMhaW  Id: WFS000584  Date: 2023-09-13  Hours: 6.35
+Name: ArCeWMa FXEres, JEWaMhaW  Id: WFS000584  Date: 2023-09-11  Hours: 8.5
+Name: ArCeWMa FXEres, JEWaMhaW  Id: WFS000584  Date: 2023-09-10  Hours: 9.78
+Name: ArCeWMa FXEres, JEWaMhaW  Id: WFS000584  Date: 2023-09-21  Hours: 9.92
+Name: ArCeWMa FXEres, JEWaMhaW  Id: WFS000584  Date: 2023-09-20  Hours: 9.82
+Name: ArCeWMa FXEres, JEWaMhaW  Id: WFS000584  Date: 2023-09-19  Hours: 8.8
+Name: ArCeWMa FXEres, JEWaMhaW  Id: WFS000584  Date: 2023-09-18  Hours: 9.36
+Name: ArCeWMa FXEres, JEWaMhaW  Id: WFS000584  Date: 2023-09-17  Hours: 9.13
+Name: RaCEs HerWaWdez, AdieX ECar  Id: WFS000585  Date: 2023-09-15  Hours: 7.99
+Name: RaCEs HerWaWdez, AdieX ECar  Id: WFS000585  Date: 2023-09-12  Hours: 6.45
+Name: RaCEs HerWaWdez, AdieX ECar  Id: WFS000585  Date: 2023-09-11  Hours: 9.39
+Name: RaCEs HerWaWdez, AdieX ECar  Id: WFS000585  Date: 2023-09-23  Hours: 4.05
+Name: RaCEs HerWaWdez, AdieX ECar  Id: WFS000585  Date: 2023-09-22  Hours: 6.29
+Name: RaCEs HerWaWdez, AdieX ECar  Id: WFS000585  Date: 2023-09-21  Hours: 7.49
+Name: RaCEs HerWaWdez, AdieX ECar  Id: WFS000585  Date: 2023-09-20  Hours: 8.42
+Name: RaCEs HerWaWdez, AdieX ECar  Id: WFS000585  Date: 2023-09-18  Hours: 9.25
+Name: RaCEs HerWaWdez, AdieX ECar  Id: WFS000585  Date: 2023-09-16  Hours: 8.45
+Name: XariEs, Cesar GiEvaWWi  Id: WFS000587  Date: 2023-09-15  Hours: 7.93
+Name: XariEs, Cesar GiEvaWWi  Id: WFS000587  Date: 2023-09-14  Hours: 8.18
+Name: XariEs, Cesar GiEvaWWi  Id: WFS000587  Date: 2023-09-13  Hours: 8.45
+Name: XariEs, Cesar GiEvaWWi  Id: WFS000587  Date: 2023-09-12  Hours: 8.41
+Name: XariEs, Cesar GiEvaWWi  Id: WFS000587  Date: 2023-09-22  Hours: 8.17
+Name: XariEs, Cesar GiEvaWWi  Id: WFS000587  Date: 2023-09-21  Hours: 9.43
+Name: XariEs, Cesar GiEvaWWi  Id: WFS000587  Date: 2023-09-20  Hours: 9.82
+Name: XariEs, Cesar GiEvaWWi  Id: WFS000587  Date: 2023-09-19  Hours: 9.2
+Name: XariEs, Cesar GiEvaWWi  Id: WFS000587  Date: 2023-09-18  Hours: 8.2
+Name: XariEs, Cesar GiEvaWWi  Id: WFS000587  Date: 2023-09-16  Hours: 8.9
+Name: AGeX, WaMhaW REGerM PeWa  Id: WFS000588  Date: 2023-09-13  Hours: 8.95
+Name: AGeX, WaMhaW REGerM PeWa  Id: WFS000588  Date: 2023-09-21  Hours: 6.9
+Name: AGeX, WaMhaW REGerM PeWa  Id: WFS000588  Date: 2023-09-20  Hours: 9.95
+Name: AGeX, WaMhaW REGerM PeWa  Id: WFS000588  Date: 2023-09-19  Hours: 7.96
+Name: AGeX, WaMhaW REGerM PeWa  Id: WFS000588  Date: 2023-09-18  Hours: 9.24
+
+
+Working hours greater than or equal to 14 in a single shift
+
+Name: DeXgadiXXE REdarMe, ChrisMiaW S  Id: WFS000523  Shift Max: 20.55
+Name: SaWchez, ArWAXfE  Id: WFS000577  Shift Max: 14.7
+
+Process finished with exit code 0
